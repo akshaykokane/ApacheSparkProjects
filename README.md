@@ -6,3 +6,4 @@
 2. Read from CSV, Read from json, BuildDataFrames, Unio Operation, Create Partitions
 3. WordCount
 4. Streaming data from the file directory
+5. Streaming data using Kafa Connect
